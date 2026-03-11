@@ -1,9 +1,0 @@
-.\c_template.o: ..\..\Misc\c_template.c
-.\c_template.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
-.\c_template.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
-.\c_template.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
-.\c_template.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
-.\c_template.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
-.\c_template.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
-.\c_template.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
-.\c_template.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
