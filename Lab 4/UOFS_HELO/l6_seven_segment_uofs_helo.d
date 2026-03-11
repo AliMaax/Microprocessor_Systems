@@ -1,0 +1,9 @@
+.\l6_seven_segment_uofs_helo.o: l6_seven_segment_UOFS_HELO.c
+.\l6_seven_segment_uofs_helo.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\l6_seven_segment_uofs_helo.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\l6_seven_segment_uofs_helo.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\l6_seven_segment_uofs_helo.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\l6_seven_segment_uofs_helo.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\l6_seven_segment_uofs_helo.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\l6_seven_segment_uofs_helo.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\l6_seven_segment_uofs_helo.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h

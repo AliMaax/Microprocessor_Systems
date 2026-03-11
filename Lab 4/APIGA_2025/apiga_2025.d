@@ -1,0 +1,9 @@
+.\apiga_2025.o: APIGA_2025.c
+.\apiga_2025.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\apiga_2025.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\apiga_2025.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\apiga_2025.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\apiga_2025.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\apiga_2025.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\apiga_2025.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\apiga_2025.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h

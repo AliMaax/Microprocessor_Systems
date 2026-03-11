@@ -1,0 +1,3 @@
+    THUMB
+    PRESERVE8
+

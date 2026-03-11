@@ -1,0 +1,9 @@
+.\sysin.o: ..\..\Misc\sysin.c
+.\sysin.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\sysin.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\sysin.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\sysin.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\sysin.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\sysin.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\sysin.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\sysin.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
