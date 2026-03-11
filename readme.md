@@ -22,9 +22,8 @@ The capstone project for this course is an **Automatic Whiteboard Duster** contr
 
 #### 🎥 Project Demonstration
 *(Click to view the video demonstration of the duster in action)*
-<video src="https://github.com/AliMaax/Microprocessor_Systems/blob/master/Project/Project.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://raw.githubusercontent.com/AliMaax/Microprocessor_Systems/master/Project/Project.mp4" controls="controls" style="max-width: 100%;">
 </video>
-
 
 #### 🧠 Core Logic & State Machine
 The core of the system is a non-blocking state machine designed to execute a predefined cleaning path.
